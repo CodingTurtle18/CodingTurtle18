@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Amari
-- 👀 I’m interested in Front end web development
-- 🌱 I’m currently learning React.js and Tailwind CSS
+- 👋 Hi, I’m Amari Pascoe
+- 👀 I’m a self-taught junior web developer
+- 🌱 HTML/CSS/JS/REACT/JAVA
 - 📫 How to reach me: amaripascoe21@gmail.com
 
 <!---
