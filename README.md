@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amari Pascoe
 - 👀 I’m a self-taught junior web developer
-- 🌱 HTML/CSS/JS/REACT/JAVA
+- 🌱 HTML/CSS/JS/REACT/PHP
 - 📫 How to reach me: amaripascoe21@gmail.com
 
 <!---
