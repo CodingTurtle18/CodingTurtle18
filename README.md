@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amari Pascoe
-- 👀 I’m a self-taught Developer
+- 👀 I’m a self-taught developer
 - 🌱 HTML/CSS/JS/REACT/JAVA
 - 📫 How to reach me: amaripascoe21@gmail.com
 
